@@ -2,13 +2,13 @@
   "name": "image_finder_app",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://mirsiddika.github.io/Get_Your_Images/",
   "dependencies": {
     "axios": "^0.18.0",
     "material-ui": "^0.20.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
-    "homepage":"https://mirsiddika.github.io/Get_Your_Images/"
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
